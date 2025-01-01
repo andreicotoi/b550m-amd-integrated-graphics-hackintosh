@@ -28,7 +28,7 @@
 | Audio    | Realtek ALC897                         |
 
 ## Demo
-![demo](demo.png)
+![demo](demo-image.png)
 
 ## Credits
 
